@@ -42,6 +42,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ### Web and Publishing
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
+- [robusta-studio/resala](https://github.com/RobustaStudio/Resala) - Resala is a PHP & Laravel Package, (Designed to add support to your laravel or just native php app for sending SMS using local operators in the MENA region Like `Vodafone`, `Infopib`, `Conneckio`)
 - [swvl/express-versioned-route](https://github.com/swvl/express-versioned-route) - Simple express.js 4.x extension, to add support for versioned routes
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 
