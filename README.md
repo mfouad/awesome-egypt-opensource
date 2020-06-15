@@ -21,6 +21,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
   * [Frontend Libraries](#frontend-libraries)
   * [Frontend Scaffolders](#frontend-scaffolders)
 - [Web and Publishing](#web-and-publishing)
+  * [Web Frameworks](#web-frameworks)
 - [Security and PenTesting](#security-and-pentesting)
 - [Test Automation and TDD](#test-automation-and-tdd)
 
@@ -43,6 +44,10 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [swvl/express-versioned-route](https://github.com/swvl/express-versioned-route) - Simple express.js 4.x extension, to add support for versioned routes
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
+
+#### Web Frameworks
+- [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - gearbox is a web framework written in Go with a focus on high performance and memory optimization
+
 
 ### Security and PenTesting
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
