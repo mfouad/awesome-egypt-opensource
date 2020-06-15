@@ -2,8 +2,9 @@
 
 ## How to contribute
 
-Simply submit a Pull-request and add your project to the README.md
+- Simply submit a Pull-request and add your project to the README.md
 or open an issue asking to add your favorite project.
+- Always add your link to the end of the list. the list is sorted by the order projects are added, not by starts or alphabetically.
 
 ## Criteria for accepting a pull request
 
