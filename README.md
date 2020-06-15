@@ -14,14 +14,14 @@
 ### Where is my project?
 Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
 
-# Categories
+## Categories
   * [Test Automation and TDD](#test-automation-and-tdd)
   * [Chatbot Frameworks](#chatbot-frameworks)
 
-# Projects
-## Test Automation and TDD
+## Projects
+### Test Automation and TDD
 - [MohabMohie/SHAFT_ENGINE](https://github.com/MohabMohie/SHAFT_ENGINE)
 
-## Chatbot Frameworks
+### Chatbot Frameworks
 - [RobustaStudio/bkit](https://github.com/RobustaStudio/bkit)
 
