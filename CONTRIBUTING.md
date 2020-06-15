@@ -11,6 +11,7 @@
 ## Criteria for accepting a new submitted project
 
 Projects sumbitted must be active and useful, these are a sinsible list of minimum requirements:
+- Must be active, *Last commit (less than 1 year) ago*
 - Must contain a comprehesive README.md
 - Must contain an opensource liscense (not essentially OSI approved, but not copyright).
 - Must be an original not a fork.
