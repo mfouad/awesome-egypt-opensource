@@ -7,7 +7,7 @@
 - An actual opensource list for listing opensource projects! Because the internet is full of old and obsolete news sites, magazines and google docs.
 
 ### Where is my project?
-Don't see your own or favourite project? check [CONTRIBUTING.md] for instructions on how to get on this list.
+Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
 
 # Categories
   * [Test Automation and TDD](#test-automation-and-tdd)
