@@ -10,6 +10,7 @@
 - Encourage open source initiatves taken both by Egyptian companies and independent Egyptian engineers.
 - Help young developers, looking to contribute to their first open source project, find approachable projects, and easy access to mentorship and guidance in their own native language.
 - An actual opensource list for listing opensource projects! Because the internet is full of old and obsolete news sites, magazines and google docs.
+- Hiring? find great developers or companies for your next project! probably the best of the best are in this list.
 
 ### Where is my project?
 Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
