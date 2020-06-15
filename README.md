@@ -44,6 +44,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [swvl/express-versioned-route](https://github.com/swvl/express-versioned-route) - Simple express.js 4.x extension, to add support for versioned routes
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
+- [blogonhq/fullstack](https://github.com/blogonhq/fullstack) - A Ruby on Rails `repo template` that you can fork and start using for you next web app. It follows a modern, modular, component-based approach inspired by [Evil Martians](https://evilmartians.com/chronicles/evil-front-part-1).
 
 #### Web Frameworks
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - gearbox is a web framework written in Go with a focus on high performance and memory optimization
