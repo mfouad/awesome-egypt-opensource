@@ -1,5 +1,10 @@
-# awesome-egypt-opensource
-> Curated list of awesome opensource projects started and maintained by Egyptian developers
+<p align="center">
+  <img width="auto" height="auto" src="awesome-egyptian-oss-logo.png">
+</p>
+
+> A Curated list of awesome opensource projects started and maintained by Egyptian developers
+
+[Logo credits](https://www.subpng.com/png-y509zn/)
 
 ### Why?
 - Encourage open source initiatves taken both by Egyptian companies and independent Egyptian engineers.
