@@ -16,6 +16,7 @@ Projects sumbitted must be active and useful, these are a sinsible list of minim
 - Must contain an opensource liscense (not essentially OSI approved, but not copyright).
 - Must be an original not a fork.
 - A Fork is accepted only if is is hard fork, with its own unique name, stars, issues and community and features.
+- Not a Protfolio, Course Work, Learning Experiment, Interview Task.
 
 ## Dead projects and Maintaining the list
 
