@@ -2,14 +2,16 @@
 
 ## How to contribute
 
-- Simply submit a Pull-request and add your project to the README.md
-or open an issue asking to add your favorite project.
-- Always add your link to the end of the list. the list is sorted by the order projects are added, not by starts or alphabetically.
+- Simply submit a Pull-request and add your project to end of any list in the README.md
+- OR open an issue asking to add your favorite project.
+- TOC is auto generated, so just add the project link and description under the correct category title
+- If you can't find a category, add it
+- Always add your link to the end of the list. the list is sorted by the order projects are added, not by stars or alphabetically.
 
-## Criteria for accepting a pull request
+## Criteria for accepting a new submitted project
 
 Projects sumbitted must be active and useful, these are a sinsible list of minimum requirements:
-- Must contain a comprehesive README.md.
+- Must contain a comprehesive README.md
 - Must contain an opensource liscense (not essentially OSI approved, but not copyright).
 - Must be an original not a fork.
 - A Fork is accepted only if is is hard fork, with its own unique name, stars, issues and community and features.
