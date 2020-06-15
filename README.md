@@ -24,6 +24,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
   * [Web Frameworks](#web-frameworks)
 - [Security and PenTesting](#security-and-pentesting)
 - [Test Automation and TDD](#test-automation-and-tdd)
+- [Browser Extensions](#browser-extensions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -54,3 +55,6 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ### Test Automation and TDD
 - [MohabMohie/SHAFT_ENGINE](https://github.com/MohabMohie/SHAFT_ENGINE) - a Test Automation Engine that provides a unified high-level interface to any of the underlying test automation frameworks.
+
+### Browser Extensions
+- [KL13NT/ally-reads](https://github.com/KL13NT/ally-reads) - An accessibility suite giving you control over what you read. Modifies visual aspects at will to make content more readable. 
