@@ -25,6 +25,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 - [Security and PenTesting](#security-and-pentesting)
 - [Test Automation and TDD](#test-automation-and-tdd)
 - [Raspberry Pi](#raspberry-pi)
+- [Tools and Plugins](#tools-and-plugins)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -58,3 +59,6 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ### Raspberry Pi
 - [mhashim6/Pi4K](https://github.com/mhashim6/Pi4K) - Pi4J Kotlin bindings for the Raspberry Pi GPIO.
+
+### Tools and Plugins
+- [mhashim6/intellij-drumroll](https://github.com/mhashim6/intellij-drumroll) - Plays a drum roll sound on compile/build. and other equally-fun sounds when build has errors, or warnings. (Plugin for Intellij IDEs).
