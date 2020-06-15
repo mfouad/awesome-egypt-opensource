@@ -21,8 +21,8 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ## Projects
 ### Test Automation and TDD
-- [MohabMohie/SHAFT_ENGINE](https://github.com/MohabMohie/SHAFT_ENGINE)
+- [MohabMohie/SHAFT_ENGINE](https://github.com/MohabMohie/SHAFT_ENGINE) - a Test Automation Engine that provides a unified high-level interface to any of the underlying test automation frameworks.
 
 ### Chatbot Frameworks
-- [RobustaStudio/bkit](https://github.com/RobustaStudio/bkit)
+- [RobustaStudio/bkit](https://github.com/RobustaStudio/bkit) - build a messenger bot using HTML.
 
