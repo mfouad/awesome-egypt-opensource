@@ -16,7 +16,9 @@
 Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
 
 ## Categories
+- [Browser Extensions](#browser-extensions)
 - [Chatbot Frameworks](#chatbot-frameworks)
+- [Fonts](#fonts)
 - [Frontend](#frontend)
   * [Frontend Libraries](#frontend-libraries)
   * [Frontend Scaffolders](#frontend-scaffolders)
@@ -24,7 +26,6 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
   * [Web Frameworks](#web-frameworks)
 - [Security and PenTesting](#security-and-pentesting)
 - [Test Automation and TDD](#test-automation-and-tdd)
-- [Browser Extensions](#browser-extensions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -43,6 +44,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ### Web and Publishing
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
+- [robusta-studio/resala](https://github.com/RobustaStudio/Resala) - Resala is a PHP & Laravel Package, (Designed to add support to your laravel or just native php app for sending SMS using local operators in the MENA region Like `Vodafone`, `Infopib`, `Conneckio`)
 - [swvl/express-versioned-route](https://github.com/swvl/express-versioned-route) - Simple express.js 4.x extension, to add support for versioned routes
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 
@@ -58,3 +60,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ### Browser Extensions
 - [KL13NT/ally-reads](https://github.com/KL13NT/ally-reads) - An accessibility suite giving you control over what you read. Modifies visual aspects at will to make content more readable. 
+
+### Fonts
+- [alif-type/Amiri](https://github.com/alif-type/amiri) - Amiri Font Project. Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text.
+- [Gue3bara/Cairo](https://github.com/Gue3bara/Cairo) - Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. 
