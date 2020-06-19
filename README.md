@@ -50,6 +50,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 #### Web Frameworks
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - gearbox is a web framework written in Go with a focus on high performance and memory optimization
+- [ahegazy/php-mvc-skeleton](https://github.com/ahegazy/php-mvc-skeleton) - A PHP OOP web application skeleton that uses MVC architectural pattern to create a basic application that contains login and multi language systems and can be used in any web project.
 
 ### SDKs and Libraries
 - [fawry-api/fawry](https://github.com/fawry-api/fawry) - A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ رد السيرفر
