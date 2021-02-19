@@ -38,6 +38,8 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### Browser Extensions
 
 * [KL13NT/ally-reads](https://github.com/KL13NT/ally-reads) - An accessibility suite giving you control over what you read. Modifies visual aspects at will to make content more readable. 
+* [AnonTab](https://github.com/0xSobky/AnonTab) - AnonTab allows you to browse safely, anonymously and privately to any suspicious URLs from within your everyday browser.
+
 
 ### Chatbot Frameworks
 
