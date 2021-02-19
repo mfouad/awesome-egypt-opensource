@@ -30,6 +30,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 * [Security and PenTesting](#security-and-pentesting)
 * [Test Automation and TDD](#test-automation-and-tdd)
 * [SDKs and Libraries](#sdks-and-libraries)
+* [Awesome Pages](#awesome-pages)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -84,3 +85,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### SDKs and Libraries
 
 * [fawry-api/fawry](https://github.com/fawry-api/fawry) - A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ رد السيرفر
+
+### Awesome Pages
+
+* [AI-ML-Driven-Companies-In-Egypt](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt) - A curated list of artificial intelligence and machine learning companies in Egypt.
