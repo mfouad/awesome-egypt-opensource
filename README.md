@@ -40,6 +40,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 * [KL13NT/ally-reads](https://github.com/KL13NT/ally-reads) - An accessibility suite giving you control over what you read. Modifies visual aspects at will to make content more readable. 
 * [AnonTab](https://github.com/0xSobky/AnonTab) - AnonTab allows you to browse safely, anonymously and privately to any suspicious URLs from within your everyday browser.
+* [kerolloz/follows-you-github](https://github.com/kerolloz/follows-you-github) A simple browser extension that shows a "follows you" label on a follower profile on GitHub.
 
 
 ### Chatbot Frameworks
