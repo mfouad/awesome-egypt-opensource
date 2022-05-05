@@ -31,6 +31,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 * [Test Automation and TDD](#test-automation-and-tdd)
 * [SDKs and Libraries](#sdks-and-libraries)
 * [Awesome Pages](#awesome-pages)
+* [Books](#books)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -90,3 +91,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### Awesome Pages
 
 * [AI-ML-Driven-Companies-In-Egypt](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt) - A curated list of artificial intelligence and machine learning companies in Egypt.
+
+### Books
+
+* [Software Environment Concepts](https://github.com/Amr2812/software-environment-concepts) - A glossary ebook for software concepts in topics like frontend, backend, databases, cloud & etc...
