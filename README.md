@@ -19,8 +19,11 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 
 ## Categories
 
+* [Awesome Pages](#awesome-pages)
 * [Browser Extensions](#browser-extensions)
+* [Books](#books)
 * [Chatbot Frameworks](#chatbot-frameworks)
+* [DevOps](#devops)
 * [Fonts](#fonts)
 * [Frontend](#frontend)
   + [Frontend Libraries](#frontend-libraries)
@@ -30,8 +33,8 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 * [Security and PenTesting](#security-and-pentesting)
 * [Test Automation and TDD](#test-automation-and-tdd)
 * [SDKs and Libraries](#sdks-and-libraries)
-* [Awesome Pages](#awesome-pages)
-* [Books](#books)
+
+
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -47,6 +50,10 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### Chatbot Frameworks
 
 * [RobustaStudio/bkit](https://github.com/RobustaStudio/bkit) - build a messenger bot using HTML.
+
+### Devops
+
+* [tactful-ai/helm-dashboard](https://github.com/tactful-ai/helm-dashboard) - Manage your helm charts and releases visually.
 
 ### Fonts
 
