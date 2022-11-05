@@ -90,10 +90,14 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### Test Automation and TDD
 
 * [MohabMohie/SHAFT_ENGINE](https://github.com/MohabMohie/SHAFT_ENGINE) - a Test Automation Engine that provides a unified high-level interface to any of the underlying test automation frameworks.
+* [imdhemy/es-testing-utils](https://github.com/imdhemy/es-testing-utils) - a PHP utilities to test Elasticsearch.
 
 ### SDKs and Libraries
 
 * [fawry-api/fawry](https://github.com/fawry-api/fawry) - A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ رد السيرفر
+* [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - The top notch PHP receipt validator for laravel.
+* [imdhemy/google-play-billing](https://github.com/imdhemy/google-play-billing) - PHP Google play bililing SDK.
+* [imdhemy/appstore-iap](https://github.com/imdhemy/appstore-iap) - PHP App store In-App Purchase implementaiton.
 
 ### Awesome Pages
 
@@ -102,3 +106,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### Books
 
 * [Software Environment Concepts](https://github.com/Amr2812/software-environment-concepts) - A glossary ebook for software concepts in topics like frontend, backend, databases, cloud & etc...
+
+### Applications
+
+* [piscibus/siklid](https://github.com/piscibus/siklid) - Siklid is a flashcard app that uses an improved form of spaced repetition.
