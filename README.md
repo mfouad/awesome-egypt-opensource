@@ -100,6 +100,9 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 ### Awesome Pages
 
 * [AI-ML-Driven-Companies-In-Egypt](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt) - A curated list of artificial intelligence and machine learning companies in Egypt.
+* [Summer Internships for Egyptian Students](https://github.com/ACM-Alexandria-SC/Internships-in-Egypt) - A curated list of summer internships for Egyptian students. Maintained by ACM Alexandria Student Chapter.
+
+
 
 ### Books
 
