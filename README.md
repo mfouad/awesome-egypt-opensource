@@ -83,6 +83,8 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [piscibus/notifly](https://github.com/piscibus/notifly) - Notifly is a Laravel Package, that replaces Laravel's database notifications to allow aggregating notification actors like Facebook. -- (John, Jane Doe, and 8 others reacted to your photo.)
 * [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Noodle is an open-source platform that streamlines student education management by consolidating various tools into one platform.
+* [alash3al/sqler](https://github.com/alash3al/sqler) - `SQL-er` is a tiny portable server enables you to write APIs using SQL query to be executed when anyone hits it.
+* [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - VeeValidate is the most popular Vue.js form library. It takes care of value tracking, validation, errors, submissions and more.
 
 ### Web Frameworks
 
