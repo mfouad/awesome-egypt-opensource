@@ -38,6 +38,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
   - [Roadmap](#roadmap)
   - [Podcasts](#podcasts)
 - [Communities](#communities)
+- [Competitive Programming and Problem Solving](#competitive-programming-and-problem-solving)
 
 
 
@@ -134,3 +135,9 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [CSE knowledge exchange](https://www.facebook.com/groups/892792400815703) - A group where you can learn and share general info about trending cse topics, jobs, internships, and learning opportunities.
 * [Egyptian AI & Big Data Geeks](https://www.facebook.com/groups/1596832580575937) - A group for Egyptian engineers working in the area of big data, data science and AI to ask, share and discuss news, articles, vacancies and events in Egypt.
 * [Active Courses](https://discord.gg/y6vUhDDX) - This Discord server is dedicated to studying computer science subjects collectively, following a synchronized approach to mimic a college-like environment.
+
+## Competitive Programming and Problem Solving
+
+* [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) - Competitive Programming mentoring channel and data structure and algorithms tutorials in Arabic. Also guiding videos and talks in software engineering. Maintained by [Mostafa Saad](https://t.me/mostvision).
+* [Junior Training Sheet V7.0](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing) - Overall ~950 problems for newcomers to problem solving. Maintained by [Mostafa Saad](https://t.me/mostvision).
+* [Interviews Warmup Sheet - V2.0] -  For developers targeting the market needs and technical interviews in companies. Maintained by [Mostafa Saad](https://t.me/mostvision).
