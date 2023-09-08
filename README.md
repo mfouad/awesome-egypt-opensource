@@ -8,31 +8,33 @@
 
 ### Why?
 
-* Encourage open source initiatves taken both by Egyptian companies and independent Egyptian engineers.
+* Encourage open source initiatives taken both by Egyptian companies and independent Egyptian engineers.
 * Help young developers, looking to contribute to their first open source project, find approachable projects, and easy access to mentorship and guidance in their own native language.
 * An actual opensource list for listing opensource projects! Because the internet is full of old and obsolete news sites, magazines and google docs.
 * Hiring? find great developers or companies for your next project! probably the best of the best are in this list.
 
 ### Where is my project?
 
-Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
+Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
 
 ## Categories
 
-* [Awesome Pages](#awesome-pages)
-* [Browser Extensions](#browser-extensions)
-* [Books](#books)
-* [Chatbot Frameworks](#chatbot-frameworks)
-* [DevOps](#devops)
-* [Fonts](#fonts)
-* [Frontend](#frontend)
-  + [Frontend Libraries](#frontend-libraries)
-  + [Frontend Scaffolders](#frontend-scaffolders)
-* [Web and Publishing](#web-and-publishing)
-* [Web Frameworks](#web-frameworks)
-* [Security and PenTesting](#security-and-pentesting)
-* [Test Automation and TDD](#test-automation-and-tdd)
-* [SDKs and Libraries](#sdks-and-libraries)
+- [Categories](#categories)
+- [Projects](#projects)
+  - [Browser Extensions](#browser-extensions)
+  - [Chatbot Frameworks](#chatbot-frameworks)
+  - [Devops](#devops)
+  - [Fonts](#fonts)
+  - [Frontend](#frontend)
+    - [Frontend Libraries](#frontend-libraries)
+    - [Frontend Scaffolders](#frontend-scaffolders)
+  - [Web and Publishing](#web-and-publishing)
+  - [Web Frameworks](#web-frameworks)
+  - [Security and PenTesting](#security-and-pentesting)
+  - [Test Automation and TDD](#test-automation-and-tdd)
+  - [SDKs and Libraries](#sdks-and-libraries)
+  - [Awesome Pages](#awesome-pages)
+  - [Books](#books)
 
 
 
