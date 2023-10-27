@@ -8,31 +8,37 @@
 
 ### Why?
 
-* Encourage open source initiatves taken both by Egyptian companies and independent Egyptian engineers.
+* Encourage open source initiatives taken both by Egyptian companies and independent Egyptian engineers.
 * Help young developers, looking to contribute to their first open source project, find approachable projects, and easy access to mentorship and guidance in their own native language.
 * An actual opensource list for listing opensource projects! Because the internet is full of old and obsolete news sites, magazines and google docs.
 * Hiring? find great developers or companies for your next project! probably the best of the best are in this list.
 
 ### Where is my project?
 
-Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
+Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) for instructions on how to get on this list.
 
 ## Categories
 
-* [Awesome Pages](#awesome-pages)
-* [Browser Extensions](#browser-extensions)
-* [Books](#books)
-* [Chatbot Frameworks](#chatbot-frameworks)
-* [DevOps](#devops)
-* [Fonts](#fonts)
-* [Frontend](#frontend)
-  + [Frontend Libraries](#frontend-libraries)
-  + [Frontend Scaffolders](#frontend-scaffolders)
-* [Web and Publishing](#web-and-publishing)
-* [Web Frameworks](#web-frameworks)
-* [Security and PenTesting](#security-and-pentesting)
-* [Test Automation and TDD](#test-automation-and-tdd)
-* [SDKs and Libraries](#sdks-and-libraries)
+- [Categories](#categories)
+- [Projects](#projects)
+  - [Browser Extensions](#browser-extensions)
+  - [Chatbot Frameworks](#chatbot-frameworks)
+  - [Devops](#devops)
+  - [Fonts](#fonts)
+  - [Frontend](#frontend)
+    - [Frontend Libraries](#frontend-libraries)
+    - [Frontend Scaffolders](#frontend-scaffolders)
+  - [Web and Publishing](#web-and-publishing)
+  - [Web Frameworks](#web-frameworks)
+  - [Security and PenTesting](#security-and-pentesting)
+  - [Test Automation and TDD](#test-automation-and-tdd)
+  - [SDKs and Libraries](#sdks-and-libraries)
+  - [Awesome Pages](#awesome-pages)
+  - [Books](#books)
+  - [Roadmap](#roadmap)
+  - [Podcasts](#podcasts)
+- [Communities](#communities)
+- [Competitive Programming and Problem Solving](#competitive-programming-and-problem-solving)
 
 
 
@@ -77,11 +83,16 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 * [swvl/express-versioned-route](https://github.com/swvl/express-versioned-route) - Simple express.js 4.x extension, to add support for versioned routes
 * [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [piscibus/notifly](https://github.com/piscibus/notifly) - Notifly is a Laravel Package, that replaces Laravel's database notifications to allow aggregating notification actors like Facebook. -- (John, Jane Doe, and 8 others reacted to your photo.)
+* [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Noodle is an open-source platform that streamlines student education management by consolidating various tools into one platform.
+* [alash3al/sqler](https://github.com/alash3al/sqler) - `SQL-er` is a tiny portable server enables you to write APIs using SQL query to be executed when anyone hits it.
+* [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - VeeValidate is the most popular Vue.js form library. It takes care of value tracking, validation, errors, submissions and more.
 
 ### Web Frameworks
 
 * [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - gearbox is a web framework written in Go with a focus on high performance and memory optimization
 * [ahegazy/php-mvc-skeleton](https://github.com/ahegazy/php-mvc-skeleton) - A PHP OOP web application skeleton that uses MVC architectural pattern to create a basic application that contains login and multi language systems and can be used in any web project.
+* [adhamsalama/simpleapi](https://github.com/adhamsalama/simpleapi) - A minimalistic, unopinionated web framework for Python, inspired by FastAPI & Flask. (for educational purposes) 
+
 
 ### Security and PenTesting
 
@@ -99,7 +110,35 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### Awesome Pages
 
 * [AI-ML-Driven-Companies-In-Egypt](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt) - A curated list of artificial intelligence and machine learning companies in Egypt.
+* [Summer Internships for Egyptian Students](https://github.com/ACM-Alexandria-SC/Internships-in-Egypt) - A curated list of summer internships for Egyptian students. Maintained by ACM Alexandria Student Chapter.
+
+
 
 ### Books
 
 * [Software Environment Concepts](https://github.com/Amr2812/software-environment-concepts) - A glossary ebook for software concepts in topics like frontend, backend, databases, cloud & etc...
+
+### Roadmap
+
+* [Frontend Developer Roadmap](https://github.com/FADL285/Front-End-Development-Roadmap) - Step by step guide to becoming a modern frontend developer.
+* [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
+* [Frontend learning and development map](https://docs.google.com/spreadsheets/d/1eS2x4w173jBNQn_rKa8UGBPWXqLq1vK_MumvpGC9xlw/edit?usp=sharing) Many existing roadmaps for entering specific fields lack detailed guidance, leaving learners to explore topics without diving deeply. This sheet aims to provide practical, work-related insights and does not necessarily refer to seniority levels, offering individuals a path to focused growth. Created by [Ahmed El-Alfy](https://twitter.com/ahmadalfy).
+
+### Podcasts
+
+* [Ask Developer Podcast](https://www.youtube.com/@bashmohandes) - Maintained by [Mohamed Elsherif](https://twitter.com/Bashmohandes).
+* [Tech Podcast بالعربي](https://www.youtube.com/@ahmdelemam) Maintained by [Ahmed El-Imam](https://twitter.com/ahmdelemam).
+* [null ++](https://www.youtube.com/channel/UC6FtBjNpRc7KCXVtXlshi5g) - Maintained by [Mohamed Luay](https://twitter.com/_mluay) and [Ahmed El-Alfy](https://twitter.com/ahmadalfy).
+
+## Communities 
+
+* [Egyptian Geeks](https://www.facebook.com/groups/172338516139198)- Our mission is to curate and share high-quality tech-related content, ensuring valuable information reaches those in search of it within our community.
+* [CSE knowledge exchange](https://www.facebook.com/groups/892792400815703) - A group where you can learn and share general info about trending cse topics, jobs, internships, and learning opportunities.
+* [Egyptian AI & Big Data Geeks](https://www.facebook.com/groups/1596832580575937) - A group for Egyptian engineers working in the area of big data, data science and AI to ask, share and discuss news, articles, vacancies and events in Egypt.
+* [Active Courses](https://discord.gg/y6vUhDDX) - This Discord server is dedicated to studying computer science subjects collectively, following a synchronized approach to mimic a college-like environment.
+
+## Competitive Programming and Problem Solving
+
+* [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) - Competitive Programming mentoring channel and data structure and algorithms tutorials in Arabic. Also guiding videos and talks in software engineering. Maintained by [Mostafa Saad](https://t.me/mostvision).
+* [Junior Training Sheet V7.0](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing) - Overall ~950 problems for newcomers to problem solving. Maintained by [Mostafa Saad](https://t.me/mostvision).
+* [Interviews Warmup Sheet - V2.0] -  For developers targeting the market needs and technical interviews in companies. Maintained by [Mostafa Saad](https://t.me/mostvision).
