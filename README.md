@@ -94,6 +94,7 @@ Don't see your own or favourite project? check [CONTRIBUTING](CONTRIBUTING.md) f
 ### SDKs and Libraries
 
 * [fawry-api/fawry](https://github.com/fawry-api/fawry) - A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ رد السيرفر
+* [Decentralized-Internet](https://github.com/Lonero-Team/Decentralized-Internet) - A SDK/library for decentralized web and distributing computing projects
 
 ### Awesome Pages
 
