@@ -51,7 +51,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [KL13NT/ally-reads](https://github.com/KL13NT/ally-reads) - An accessibility suite giving you control over what you read. Modifies visual aspects at will to make content more readable. 
 * [AnonTab](https://github.com/0xSobky/AnonTab) - AnonTab allows you to browse safely, anonymously and privately to any suspicious URLs from within your everyday browser.
 * [kerolloz/follows-you-github](https://github.com/kerolloz/follows-you-github) A simple browser extension that shows a "follows you" label on a follower profile on GitHub.
-
+* [HaramBlur](https://github.com/alganzory/HaramBlur) A Browser extension that enables you to navigate the web with respect for your Islamic values, protect your privacy and reduce browsing distractions by auto detecting and blurring "Haram" content.
 
 ### Chatbot Frameworks
 
