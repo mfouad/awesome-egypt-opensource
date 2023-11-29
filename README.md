@@ -60,6 +60,8 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 ### Devops
 
 * [tactful-ai/helm-dashboard](https://github.com/tactful-ai/helm-dashboard) - Manage your helm charts and releases visually.
+* [tactful-ai/on-prem](https://github.com/tactful-ai/on-prem) - Quickly provision and operate your on-premises cluster with just a single click, leveraging Rancher for cluster management equipped with dynamic provisioning and monitoring tools such as Prometheus and Grafana.
+* [tactful-ai/doxy-helm](https://github.com/tactful-ai/doxy-helm) - Auto-generates customized documentation from helm charts into markdown files. The resulting files contain metadata about their respective chart and a table with each of the chart's values, their defaults, and an optional description parsed from comments.
 
 ### Fonts
 
