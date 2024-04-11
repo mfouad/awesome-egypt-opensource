@@ -61,7 +61,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 
 * [tactful-ai/helm-dashboard](https://github.com/tactful-ai/helm-dashboard) - Manage your helm charts and releases visually.
 * [tactful-ai/on-prem](https://github.com/tactful-ai/on-prem) - Quickly provision and operate your on-premises cluster with just a single click, leveraging Rancher for cluster management equipped with dynamic provisioning and monitoring tools such as Prometheus and Grafana.
-* [tactful-ai/doxy-helm](https://github.com/tactful-ai/doxy-helm) - Auto-generates customized documentation from helm charts into markdown files. The resulting files contain metadata about their respective chart and a table with each of the chart's values, their defaults, and an optional description parsed from comments.
+* [tactful-ai/helm2readme](https://github.com/tactful-ai/helm2readme) - Auto-generates customized documentation from helm charts into markdown files. The resulting files contain metadata about their respective chart and a table with each of the chart's values, their defaults, and an optional description parsed from comments.
 
 ### Fonts
 
@@ -138,6 +138,11 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [CSE knowledge exchange](https://www.facebook.com/groups/892792400815703) - A group where you can learn and share general info about trending cse topics, jobs, internships, and learning opportunities.
 * [Egyptian AI & Big Data Geeks](https://www.facebook.com/groups/1596832580575937) - A group for Egyptian engineers working in the area of big data, data science and AI to ask, share and discuss news, articles, vacancies and events in Egypt.
 * [Active Courses](https://discord.gg/y6vUhDDX) - This Discord server is dedicated to studying computer science subjects collectively, following a synchronized approach to mimic a college-like environment.
+* [Dotnet Egypt](https://web.facebook.com/groups/dotnetegypt) - A facebook group for C# and .Net developers to aggregate problems and post solutions
+* [Lean Startup Circle](https://web.facebook.com/groups/LeanStartupCircleEgypt) - Lean Startup is a methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable, this facebook group is a community for developers, VCs and all people involved in startups to discuss the Lean Startup paradigm and share their knowledge.
+* [AWS Egypt Club](https://web.facebook.com/groups/aws.egypt.club) - A facebook group to discuss all things AWS and Networking/Cloud Computing.
+* [Automatest - Software Test Automation Hub](https://web.facebook.com/groups/Automatest) - A facebook group dedicated to Automated Software Testing
+* [Blockchain Egypt](https://web.facebook.com/groups/BlockchainEgypt) - Facebook group for Blockchain enthusiasts
 
 ## Competitive Programming and Problem Solving
 
