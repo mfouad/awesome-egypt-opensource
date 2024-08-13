@@ -93,7 +93,8 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 
 * [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - gearbox is a web framework written in Go with a focus on high performance and memory optimization
 * [ahegazy/php-mvc-skeleton](https://github.com/ahegazy/php-mvc-skeleton) - A PHP OOP web application skeleton that uses MVC architectural pattern to create a basic application that contains login and multi language systems and can be used in any web project.
-* [adhamsalama/simpleapi](https://github.com/adhamsalama/simpleapi) - A minimalistic, unopinionated web framework for Python, inspired by FastAPI & Flask. (for educational purposes) 
+* [adhamsalama/simpleapi](https://github.com/adhamsalama/simpleapi) - A minimalistic, unopinionated web framework for Python, inspired by FastAPI & Flask. (for educational purposes)
+* [hasssanezzz/PyMicroHTTP](https://github.com/hasssanezzz/PyMicroHTTP) - a lightweight, flexible HTTP framework built from scratch in Python. It provides a simple way to create HTTP services without heavy external dependencies, making it ideal for learning purposes or small projects.
 
 
 ### Security and PenTesting
