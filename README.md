@@ -114,8 +114,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 
 * [AI-ML-Driven-Companies-In-Egypt](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt) - A curated list of artificial intelligence and machine learning companies in Egypt.
 * [Summer Internships for Egyptian Students](https://github.com/ACM-Alexandria-SC/Internships-in-Egypt) - A curated list of summer internships for Egyptian students. Maintained by ACM Alexandria Student Chapter.
-
-
+* [Awesome Arabic Speakers](https://github.com/sahaba-ai/awesome-arabic-speakers) - A curated and collaborative list of awesome Arabic speaker's contributions in tech regardless of their ethnicity, nationality, or location.
 
 ### Books
 
