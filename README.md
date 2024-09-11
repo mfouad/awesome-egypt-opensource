@@ -34,6 +34,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
   - [Security and PenTesting](#security-and-pentesting)
   - [Test Automation and TDD](#test-automation-and-tdd)
   - [SDKs and Libraries](#sdks-and-libraries)
+  - [Visualizations](#visualizations)
   - [Awesome Pages](#awesome-pages)
   - [Books](#books)
   - [Roadmap](#roadmap)
@@ -114,6 +115,10 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 
 * [fawry-api/fawry](https://github.com/fawry-api/fawry) - A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ رد السيرفر
 * [Decentralized-Internet](https://github.com/Lonero-Team/Decentralized-Internet) - A SDK/library for decentralized web and distributing computing projects
+
+### Visualizations
+
+* [RacingBars](https://github.com/hatemhosny/racing-bars) - An open-source, light-weight, easy-to-use, and feature-rich javascript library for bar chart race, based on D3.js.
 
 ### Awesome Pages
 
