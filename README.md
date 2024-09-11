@@ -23,6 +23,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 - [Projects](#projects)
   - [Browser Extensions](#browser-extensions)
   - [Chatbot Frameworks](#chatbot-frameworks)
+  - [Developer Tools](#developer-tools)
   - [Devops](#devops)
   - [Fonts](#fonts)
   - [Frontend](#frontend)
@@ -56,6 +57,10 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 ### Chatbot Frameworks
 
 * [RobustaStudio/bkit](https://github.com/RobustaStudio/bkit) - build a messenger bot using HTML.
+
+### Developer Tools
+
+* [LiveCodes](https://github.com/live-codes/livecodes) - A feature-rich, open-source, client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ languages/frameworks.
 
 ### Devops
 
