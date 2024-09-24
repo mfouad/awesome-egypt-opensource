@@ -94,6 +94,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Noodle is an open-source platform that streamlines student education management by consolidating various tools into one platform.
 * [alash3al/sqler](https://github.com/alash3al/sqler) - `SQL-er` is a tiny portable server enables you to write APIs using SQL query to be executed when anyone hits it.
 * [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - VeeValidate is the most popular Vue.js form library. It takes care of value tracking, validation, errors, submissions and more.
+* [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Parallel Arabic is designed for learners who want to dive deeper into Egyptian Arabic. It offers authentic texts with side-by-side English translations and transliterations, along with audio from native speakers. And AI powered definitions for every word.
 
 ### Web Frameworks
 
