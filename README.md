@@ -62,6 +62,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 ### Developer Tools
 
 * [LiveCodes](https://github.com/live-codes/livecodes) - A feature-rich, open-source, client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ languages/frameworks.
+* [orchestra-mcp/framework](https://github.com/orchestra-mcp/framework) - An AI-agentic IDE framework in Go: an MCP server with 290+ tools, plugins, and packs of skills and agents for Claude Code, Cursor and VS Code.
 
 ### Devops
 
@@ -95,6 +96,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [alash3al/sqler](https://github.com/alash3al/sqler) - `SQL-er` is a tiny portable server enables you to write APIs using SQL query to be executed when anyone hits it.
 * [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - VeeValidate is the most popular Vue.js form library. It takes care of value tracking, validation, errors, submissions and more.
 * [selmetwa/parallel-arabic](https://github.com/selmetwa/parallel-arabic) - Parallel Arabic is designed for learners who want to dive deeper into Egyptian Arabic. It offers authentic texts with side-by-side English translations and transliterations, along with audio from native speakers. And AI powered definitions for every word.
+* [TomatoPHP](https://github.com/tomatophp) - An open-source FilamentPHP plugin ecosystem for Laravel: CMS, CRM, e-commerce, users, translations and more.
 
 ### Web Frameworks
 
@@ -102,6 +104,8 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 * [ahegazy/php-mvc-skeleton](https://github.com/ahegazy/php-mvc-skeleton) - A PHP OOP web application skeleton that uses MVC architectural pattern to create a basic application that contains login and multi language systems and can be used in any web project.
 * [adhamsalama/simpleapi](https://github.com/adhamsalama/simpleapi) - A minimalistic, unopinionated web framework for Python, inspired by FastAPI & Flask. (for educational purposes)
 * [hasssanezzz/PyMicroHTTP](https://github.com/hasssanezzz/PyMicroHTTP) - a lightweight, flexible HTTP framework built from scratch in Python. It provides a simple way to create HTTP services without heavy external dependencies, making it ideal for learning purposes or small projects.
+* [laravilt/laravilt](https://github.com/laravilt/laravilt) - An admin panel framework for Laravel rendered with Inertia.js on Vue or React: resources, forms, tables, widgets and AI.
+* [togo-framework/togo](https://github.com/togo-framework/togo) - A full-stack framework that ships a Go backend and a React frontend as one deployable app, with sqlc, Atlas, GraphQL, OpenAPI and a CLI.
 
 
 ### Security and PenTesting
