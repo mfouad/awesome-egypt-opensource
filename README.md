@@ -116,6 +116,7 @@ Don't see your own or favorite project? check [CONTRIBUTING](CONTRIBUTING.md) fo
 
 * [fawry-api/fawry](https://github.com/fawry-api/fawry) - A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ رد السيرفر
 * [Decentralized-Internet](https://github.com/Lonero-Team/Decentralized-Internet) - A SDK/library for decentralized web and distributing computing projects
+* [arabskypedia2/moon-phase-ar](https://github.com/arabskypedia2/moon-phase-ar) - A zero-dependency JavaScript library that returns the moon phase (Arabic and English name), age in days and illumination for any date. MIT license. (مكتبة جافاسكريبت صغيرة بلا اعتماديات تحسب طور القمر وعمره ونسبة إضاءته بأسماء الأطوار بالعربية)
 
 ### Visualizations
 
